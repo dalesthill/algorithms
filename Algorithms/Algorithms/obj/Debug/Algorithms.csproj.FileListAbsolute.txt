@@ -1,0 +1,9 @@
+C:\Users\DALE\documents\visual studio 2015\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\DALE\documents\visual studio 2015\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\DALE\documents\visual studio 2015\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\DALE\documents\visual studio 2015\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\DALE\documents\visual studio 2015\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\DALE\documents\visual studio 2015\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\Dale\Google Drive\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Dale\Google Drive\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Dale\Google Drive\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
