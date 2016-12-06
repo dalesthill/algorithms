@@ -120,11 +120,11 @@ namespace GraphSort
             Stack<Vertex<T>> processed = new Stack<Vertex<T>>();
             LinkedListNode<Vertex<T>> neighbor;
 
-            //add source the the queue
+            //add source the the stack
             processed.Push(Source);
             visited.Add(Source);
 
-            //process the queue until its empy
+            //process the stack until its empy
             while (processed.Count > 0)
             {
                 //remove the first item in queue and process adjacent vertices
